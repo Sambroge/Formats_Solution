@@ -1,0 +1,7 @@
+[0C84154A-0469-47D1-B930-3F3D098E0F72]
+dll=TFlexCADCommandsUser.dll
+Managed=1
+name=Форматы
+autostart=1
+//Положить в c:\Program Files\T-FLEX CAD 17\Program\
+//Кодировка ANSI
